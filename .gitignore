@@ -2,10 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.sqlite*
 # C extensions
 *.so
-
+*.bin
 # Distribution / packaging
 .Python
 build/
